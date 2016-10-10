@@ -7,7 +7,7 @@ Vagrant que contiene una aplicaci√≥n en php para convertir archivos con extensi√
 ##2.  Instalar virtualbox.
 <https://www.virtualbox.org>
 
-##3.  En la ruta que desees, crea una carpeta para los archivos de vagrant.
+##3. En la ruta que desees, crea una carpeta para los archivos de vagrant.
 
     $mkdir ~/Documentos/centos_txtTopdf
 ##4. Desde linea de comandos, accede a la carpeta que creaste.
