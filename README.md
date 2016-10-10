@@ -27,4 +27,4 @@ config.vm.network
 
 ##8.  Listo, con esto ya podrás tener acceso a modulo para poder convertir tus archivos, abre un explorador y teclea la siguiente dirección.
 
-	http://localhost:3000/convertir
+<http://localhost:3000/convertir>
