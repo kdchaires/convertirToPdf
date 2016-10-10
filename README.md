@@ -14,20 +14,21 @@ Vagrant que contiene una aplicación en php para convertir archivos con extensi�
 
 ##5. Descargar e instalar el box, esto lo podemos hacer de dos maneras:  
     a) Ejecutando el siguiente comando:
+    
     $ vagrant init kchaires/centos_txtTopdf; vagrant up --provider virtualbox
     
     b) Descargar el vagrant e iniciar el vagrant:
-Descargar el archivo box
-<https://atlas.hashicorp.com/kchaires/boxes/centos_txtTopdf/versions/1.0.0/providers/virtualbox.box>
+    Descargar el archivo box
+    <https://atlas.hashicorp.com/kchaires/boxes/centos_txtTopdf/versions/1.0.0/providers/virtualbox.box>
 
-Renombrar el archivo a centos_txtTopdf.box
-$mv hc-download.crdownload centos_txtTopdf.box
+    Renombrar el archivo a centos_txtTopdf.box
+    $mv hc-download.crdownload centos_txtTopdf.box
 
-Agrega centos.box a la lista de vagrant
-$vagrant box add centos_txtTopdf centos_txtTopdf.box
+    Agrega centos.box a la lista de vagrant
+    $vagrant box add centos_txtTopdf centos_txtTopdf.box
 
-Iniciar el vagrant
-$ vagrant init centos    
+    Iniciar el vagrant
+    $ vagrant init centos    
 
 Esto genera un archivo vagrant (archivo de configuración) y una carpeta .vagrant (contiene archivos necesarios para la virtual).
 
