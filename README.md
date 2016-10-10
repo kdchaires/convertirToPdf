@@ -2,7 +2,7 @@
 Vagrant que contienen una aplicación en php para convertir archivos con extensión .txt .doc .docx .xls .xlsx a pdf.
 
 ##1.  Necesitamos descargar Vagrant.
-	<https://www.vagrantup.com/downloads.html>	
+	https://www.vagrantup.com/downloads.html	
 
 ##2.  Instalar Vagrant.
 	https://www.vagrantup.com/docs/installation/
@@ -27,4 +27,4 @@ config.vm.network
 
 ##8.  Listo, con esto ya podrás tener acceso a modulo para poder convertir tus archivos, abre un explorador y teclea la siguiente dirección.
 
-	<http://localhost:3000/convertir>
+	http://localhost:3000/convertir
