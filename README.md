@@ -1,8 +1,8 @@
 # convertirToPdf
 Vagrant que contienen una aplicación en php para convertir archivos con extensión .txt .doc .docx .xls .xlsx a pdf.
 
-##1.  Necesitamos descargar Vagrant.
-<https://www.vagrantup.com/downloads.html>	
+##1.  Necesitamos descargar e instalar Vagrant.
+<https://www.vagrantup.com>	
 
 ##2.  Instalar Vagrant.
 <https://www.vagrantup.com/docs/installation/>
