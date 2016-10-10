@@ -4,8 +4,8 @@ Vagrant que contienen una aplicación en php para convertir archivos con extensi
 ##1.  Necesitamos descargar e instalar Vagrant.
 <https://www.vagrantup.com>	
 
-##2.  Instalar Vagrant.
-<https://www.vagrantup.com/docs/installation/>
+##2.  Instalar virtualbox.
+<https://www.virtualbox.org>
 
 ##3.  En la ruta que desees, crea una carpeta para los archivos de vagrant.
 
