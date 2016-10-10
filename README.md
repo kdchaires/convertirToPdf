@@ -22,8 +22,8 @@ Esto creara un archivo Vagrant (archivo de configuración) y una carpeta .vagran
 config.vm.network
  "forwarded_port", guest: 80, host: 3000
 
-##7.  Iniciar el Vagrant.
-    $ vagrant up
+##7.  Re-iniciar el Vagrant.
+    $ vagrant reload
 
 ##8.  Listo, con esto ya podrás tener acceso a modulo para poder convertir tus archivos, abre un explorador y teclea la siguiente dirección.
 
