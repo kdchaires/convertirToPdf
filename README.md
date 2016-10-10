@@ -14,11 +14,11 @@ Vagrant que contiene una aplicaci√≥n en php para convertir archivos con extensi√
 
 ##5. Descargar e instalar el box, esto lo podemos hacer de dos maneras:  
 
-- 1.- Ejecutando el siguiente comando:
+1.- Ejecutando el siguiente comando:
     
     $ vagrant init kchaires/centos_txtTopdf; vagrant up --provider virtualbox
     
-- 2.- b) Descargar el vagrant e iniciar el vagrant:
+2.- b) Descargar el vagrant e iniciar el vagrant:
 Descargar el archivo box desde: <https://atlas.hashicorp.com/kchaires/boxes/centos_txtTopdf/versions/1.0.0/providers/virtualbox.box>
 
 
