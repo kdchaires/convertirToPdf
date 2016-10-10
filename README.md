@@ -14,7 +14,7 @@ Vagrant que contiene una aplicaci√≥n en php para convertir archivos con extensi√
 
 ##5. Descargar e instalar el box, esto lo podemos hacer de dos maneras:  
 
-1.- Ejecutando el siguiente comando:
+1.- a) Ejecutando el siguiente comando:
     
     $vagrant init kchaires/centos_txtTopdf; vagrant up --provider virtualbox
     
